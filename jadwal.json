@@ -1,0 +1,15 @@
+[
+    {
+        "tipe": "jadwal_kerja",
+        "deskripsi": "tanggal 4 mei wedding",
+        "hari": "selasa",
+        "jam": "10.00",
+        "selesai": false
+    },
+    {
+        "tipe": "tugas_deadline",
+        "deskripsi": "kerjaan wedding video",
+        "deadline": "25-06-2025",
+        "selesai": true
+    }
+]
